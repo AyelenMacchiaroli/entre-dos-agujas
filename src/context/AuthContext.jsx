@@ -26,7 +26,7 @@ export const AuthProvider = ({ children }) => {
     return false;
   };
 
-  // ✅ Esta es la función correcta de logout
+
   const logout = () => {
     setUser(null);
     localStorage.removeItem("user");

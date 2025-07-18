@@ -50,12 +50,12 @@ const NavLinks = styled.div`
 `;
 
 const Navbar = () => {
-  const { user, logout } = useAuth(); // ✅ Obtenemos el user y logout del contexto
+  const { user, logout } = useAuth(); 
   const navigate = useNavigate();
 
   const handleLogout = () => {
     logout();
-    navigate("/"); // Redirige al home después del logout
+    navigate("/"); 
   };
 
   return (

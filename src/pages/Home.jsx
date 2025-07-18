@@ -2,8 +2,8 @@ import React from "react";
 import { Helmet } from "react-helmet";
 import styled from "styled-components";
 import { FaInstagram, FaFacebook, FaWhatsapp } from "react-icons/fa";
-import portadaImg from "../assets/portada.jpg"; // debes agregar una imagen ahí
-import logoImg from "../assets/logo.png";       // agrega tu logo aquí
+import portadaImg from "../assets/portada.jpg";
+import logoImg from "../assets/logo.png";       
 
 const HomeContainer = styled.div`
   text-align: center;

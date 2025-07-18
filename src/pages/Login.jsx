@@ -3,7 +3,7 @@ import { useAuth } from "../context/AuthContext";
 import { useNavigate } from "react-router-dom";
 import styled from "styled-components";
 
-// 🎨 ESTILOS
+
 const LoginContainer = styled.div`
   max-width: 400px;
   margin: 4rem auto;
